@@ -41,4 +41,4 @@ for k in ['linear','poly','rbf','sigmoid']:
     confidence = clf.score(X_test, y_test)
     print(k,confidence)
 
-print("test")
+print("testing 123")
